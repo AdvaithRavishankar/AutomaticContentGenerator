@@ -1,0 +1,27 @@
+{
+    "memes": {
+        "0": {
+                "id": "0",
+                "name": "Ight_imma_headout.png",
+                "path": "Templates/assets/0.png",
+                "text_id": "0",
+                "x1":40,
+                "y1":10,
+                "x2":780,
+                "y2":200
+            }
+    },
+
+    "text_id": 
+        {
+            "0": {
+                "sentences": "1",
+                "max_tokens": "30"
+            }
+        },
+
+    "map": {
+        "Ight_imma_headout": "0"
+    }
+
+}
